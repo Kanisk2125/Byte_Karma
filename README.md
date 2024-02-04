@@ -1,4 +1,2 @@
-# care_bridge_
-A care from our side for you.
-An app specialised for cancer patients only.
-A step towards help.
+# care_connect_
+Bridging Wellness Through Compassionate Solutions
